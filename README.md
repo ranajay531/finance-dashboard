@@ -1,3 +1,1 @@
-# finance-dashboard
- 
 # finance-app
