@@ -1,4 +1,4 @@
-# finance-app
+# finance-dashboard
 
 Dashboard Tab
 ![ScreenShot](/screenshots/sc1.png)
